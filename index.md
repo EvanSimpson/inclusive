@@ -1,9 +1,8 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
+
+This website is intended to provide a list of links to resources for learning more about different aspects of inclusivity. See the [about page](https://evansimpson.github.io/inclusive/about) for more.
 
 ## Motivation
 - [The Veil of Ignorance](http://mrmrs.io/writing/2016/03/23/the-veil-of-ignorance/) - "If everyone can use your product I think it's good for your business. But even if it wasn't, I think it would be the right thing to do. Which makes it worth doing."
