@@ -12,12 +12,12 @@
         </p>
         <ul class="footer-sitemap">
           <li>
-            <a class="page-link" href="/">Home</a>
+            <a class="page-link" href="https://evansimpson.github.io/inclusive/">Home</a>
           </li>
           {% for my_page in site.pages %}
             {% if my_page.title %}
               <li>
-                <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+                <a class="page-link" href="https://evansimpson.github.io/inclusive{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
               </li>
             {% endif %}
           {% endfor %}
