@@ -1,0 +1,16 @@
+---
+layout: default
+---
+<article class="post">
+
+  <header class="post-header">
+    {% if page.showTitle %}
+    <h1 class="post-title">{{ page.title | escape }}</h1>
+    {% endif %}
+  </header>
+
+  <main class="post-content" id="main">
+    {{ content }}
+  </main>
+
+</article>
