@@ -13,6 +13,8 @@ This website is intended to provide a list of links to resources for learning mo
 - [Project Include](http://projectinclude.org/)
 - [The Denver Foundation Inclusiveness Project](http://www.nonprofitinclusiveness.org/)
 - [Cornell report on creating inclusive organizations](http://digitalcommons.ilr.cornell.edu/cgi/viewcontent.cgi?article=1056&context=articles)
+- [Building A Diverse Newsroom Is Work](https://medium.com/@shani_o/building-a-diverse-newsroom-is-work-e4843d6d014b)
+- [Lessons in inclusive hiring: what I’ve learnt](https://medium.com/@s_m_i/lessons-in-inclusive-hiring-what-ive-learnt-d8501d8925d5#.n195712a4)
 
 ## Creating Inclusive Online Communities
 - [Dealing With Harassment in VR](http://uploadvr.com/dealing-with-harassment-in-vr/) - Written in response to [My First Virtual Reality Groping](https://medium.com/athena-talks/my-first-virtual-reality-sexual-assault-2330410b62ee#.rsrggsimc), VR game creator discuses the empowerment of victims of abuse and harassment
