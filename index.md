@@ -52,3 +52,4 @@ This website is intended to provide a list of links to resources for learning mo
 ## Inclusive Learning
 - [FLOE (Flexible Learning for Open Education) Handbook](http://floeproject.org/) - Project site for a handbook of tips on creating open learning resources for a diverse groups of learners
 - [The Best Inclusive Education Links](http://www.thinkinclusive.us/the-best-inclusive-education-links-100-links-to-the-best-inclusion-related-articles-videos-and-media-on-the-web/#sthash.p09OU38a.dpuf) - Meta: List of 100 links to inclusive learning articles
+- [Creating Inclusive Classrooms with Microsoft Education](https://samuelmcneill.com/2018/01/29/video-creating-inclusive-classrooms/) - Video and abbreviated notes on inclusive features in Microsoft software
