@@ -43,6 +43,7 @@ This website is intended to provide a list of links to resources for learning mo
 - [Drop-Down Menus: Use Sparingly](https://www.nngroup.com/articles/drop-down-menus-use-sparingly/)
 - Inclusive Web Books: [A Web For Everyone](https://www.goodreads.com/book/show/20640233-a-web-for-everyone), [Inclusive Design Patterns](https://www.goodreads.com/book/show/30816008-inclusive-design-patterns---coding-accessibility-into-web-design), [Apps For All](https://www.goodreads.com/book/show/22703073-apps-for-all)
 - [Color Box by Lyft](http://www.colorbox.io) - create accessible color systems
+- [Designing Layouts for Screen Readers](https://benrobertson.io/accessibility/designing-layouts-for-screen-readers)
 
 ### Dev tools
 - [Tenon](https://tenon.io/) - Automated 508 / WCAG 2.0 Issue reporting
